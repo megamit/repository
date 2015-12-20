@@ -92,7 +92,7 @@
    ":$":{
       "steps":68,
       "url":"https://megamit.github.io/repository/skype-emotes/7711.bmp",
-      "type":"sprite40"
+      "type":"sprite40d-disabled"
    },
    "(rain)":{
       "steps":29,
