@@ -2,7 +2,7 @@
    "(oliver)":{
       "steps":63,
       "url":"https://megamit.github.io/repository/skype-emotes/7592.bmp",
-      "type":"sprite20",
+      "type":"sprite20"
    },
    "(heidy)":{
       "steps":74,
@@ -79,52 +79,57 @@
       "url":"https://megamit.github.io/repository/skype-emotes/7775.bmp",
       "type":"sprite40"
    },
-   ":7575:":{
+   "(poolparty)":{
       "steps":87,
       "url":"https://megamit.github.io/repository/skype-emotes/7575.bmp",
       "type":"sprite20"
    },
-   ":7711:":{
+   "(hrv)":{
+      "steps":87,
+      "url":"https://megamit.github.io/repository/skype-emotes/7575.bmp",
+      "type":"sprite20"
+   },
+   ":$":{
       "steps":68,
       "url":"https://megamit.github.io/repository/skype-emotes/7711.bmp",
       "type":"sprite40"
    },
-   ":7556:":{
+   "(rain)":{
       "steps":29,
       "url":"https://megamit.github.io/repository/skype-emotes/7556.bmp",
       "type":"sprite20"
    },
-   ":7734:":{
+   "(hug)":{
       "steps":75,
       "url":"https://megamit.github.io/repository/skype-emotes/7734.bmp",
       "type":"sprite40"
    },
-   ":7765:":{
+   "(flex)":{
       "steps":58,
       "url":"https://megamit.github.io/repository/skype-emotes/7765.bmp",
       "type":"sprite40"
    },
-   ":7540:":{
+   "(rofl)":{
       "steps":80,
       "url":"https://megamit.github.io/repository/skype-emotes/7540.bmp",
       "type":"sprite20"
    },
-   ":7740:":{
+   "(rofl)":{
       "steps":80,
       "url":"https://megamit.github.io/repository/skype-emotes/7740.bmp",
       "type":"sprite40"
    },
-   ":7781:":{
+   "(zilmer)":{
       "steps":61,
       "url":"https://megamit.github.io/repository/skype-emotes/7781.bmp",
       "type":"sprite40"
    },
-   ":7553:":{
+   "(lalala)":{
       "steps":19,
       "url":"https://megamit.github.io/repository/skype-emotes/7553.bmp",
       "type":"sprite20"
    },
-   ":7574:":{
+   "(drunk)":{
       "steps":48,
       "url":"https://megamit.github.io/repository/skype-emotes/7574.bmp",
       "type":"sprite20"
