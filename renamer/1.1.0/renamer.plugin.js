@@ -12,14 +12,7 @@ class Renamer{
         <span>Change Local Nickname</span>
         <div class="hint"></div>
       </div>
-      <div class="item colour-item">
-        <span>Change Local Colour</span>
-        <div class="hint"></div>
-      </div>
-      <div class="item avatar-item">
-        <span>Change Local Avatar</span>
-        <div class="hint"></div>
-      </div>
+
     </div>`;
   }
   getReactInstance(node){    return node[ Object.keys(node).find((key)=>key.startsWith("__reactInternalInstance"))]   }
