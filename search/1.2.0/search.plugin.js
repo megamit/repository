@@ -245,8 +245,9 @@ class searchPlugin{
 
 	getName(){return "searchPlugin"};
 	getDescription(){return "The return of ctrl+f! until at least discord devs decide to add it"};
-	getVersion(){return "1.1.1"};
+	getVersion(){return "1.2.0"};
 	getAuthor(){return "Megamit/Mitchell"};
 	load(){};
 	unload(){};
+
 }
