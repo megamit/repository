@@ -1,8 +1,14 @@
 [
   {
-  "version" : "1.0.0",
-  "src" : "http://megamit.github.io/repository/renamer/1.0.0",
-  "href" : "http://megamit.github.io/repository/renamer/1.0.0",
-  "notes" : "Initial Release"
+    "version" : "1.1.0",
+    "src" : "http://megamit.github.io/repository/renamer/1.1.0/renamer.plugin.js",
+    "href" : "http://megamit.github.io/repository/renamer/1.1.0/renamer.plugin.js",
+    "notes" : "Update Notifier Added"
+  },
+  {
+    "version" : "1.0.0",
+    "src" : "http://megamit.github.io/repository/renamer/1.0.0",
+    "href" : "http://megamit.github.io/repository/renamer/1.0.0",
+    "notes" : "Initial Release"
   }
 ]
