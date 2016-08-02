@@ -1,5 +1,11 @@
 [
   {
+    "version" : "1.2.0",
+    "src" : "http://megamit.github.io/repository/renamer/1.2.0/renamer.plugin.js",
+    "href" : "http://megamit.github.io/repository/renamer/1.2.0/renamer.plugin.js",
+    "notes" : "New Colour Support!"
+  },
+  {
     "version" : "1.1.0",
     "src" : "http://megamit.github.io/repository/renamer/1.1.0/renamer.plugin.js",
     "href" : "http://megamit.github.io/repository/renamer/1.1.0/renamer.plugin.js",
