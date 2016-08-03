@@ -1,5 +1,11 @@
 [
   {
+    "version" : "1.2.1",
+    "src" : "http://megamit.github.io/repository/search/1.2.1/search.plugin.js",
+    "href" : "http://megamit.github.io/repository/search/1.2.1/search.plugin.js",
+    "notes" : "Fix Crash"
+  },
+  {
     "version" : "1.2.0",
     "src" : "http://megamit.github.io/repository/search/1.2.0/search.plugin.js",
     "href" : "http://megamit.github.io/repository/search/1.2.0/search.plugin.js",
