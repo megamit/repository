@@ -1,5 +1,11 @@
 [
   {
+    "version" : "1.3.0",
+    "src" : "http://megamit.github.io/repository/renamer/1.3.0/renamer.plugin.js",
+    "href" : "http://megamit.github.io/repository/renamer/1.3.0/renamer.plugin.js",
+    "notes" : "Dirty hot release to fix a critical bug and replace it with less anoying ones. Brings some unfinished features."
+  },
+  {
     "version" : "1.2.0",
     "src" : "http://megamit.github.io/repository/renamer/1.2.0/renamer.plugin.js",
     "href" : "http://megamit.github.io/repository/renamer/1.2.0/renamer.plugin.js",
