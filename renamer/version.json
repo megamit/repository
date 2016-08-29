@@ -1,5 +1,11 @@
 [
   {
+    "version" : "1.4.0",
+    "src" : "http://megamit.github.io/repository/renamer/1.4.0/renamer.plugin.js",
+    "href" : "http://megamit.github.io/repository/renamer/1.4.0/renamer.plugin.js",
+    "notes" : "Tags now show in the memberlist and changing a nickname or tag no longer causes massive spazouts till you change channel."
+  },
+  {
     "version" : "1.3.0",
     "src" : "http://megamit.github.io/repository/renamer/1.3.0/renamer.plugin.js",
     "href" : "http://megamit.github.io/repository/renamer/1.3.0/renamer.plugin.js",
