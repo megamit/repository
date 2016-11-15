@@ -1,5 +1,10 @@
 [
   {
+    "version" : "1.4.1",
+    "src" : "http://megamit.github.io/repository/renamer/1.4.1/renamer.plugin.js",
+    "href" : "http://megamit.github.io/repository/renamer/1.4.1/renamer.plugin.js",
+    "notes" : "Quick ghetto patch to fix the dom monitor getting detached when opening dms and breaking everything"
+  },{
     "version" : "1.4.0",
     "src" : "http://megamit.github.io/repository/renamer/1.4.0/renamer.plugin.js",
     "href" : "http://megamit.github.io/repository/renamer/1.4.0/renamer.plugin.js",
