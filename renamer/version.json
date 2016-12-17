@@ -1,5 +1,11 @@
 [
   {
+    "version" : "1.4.3",
+    "src" : "http://megamit.github.io/repository/renamer/1.4.3/renamer.plugin.js",
+    "href" : "http://megamit.github.io/repository/renamer/1.4.3/renamer.plugin.js",
+    "notes" : "Moved slightly to the right inline custom tag."
+  },
+  {
     "version" : "1.4.2",
     "src" : "http://megamit.github.io/repository/renamer/1.4.2/renamer.plugin.js",
     "href" : "http://megamit.github.io/repository/renamer/1.4.2/renamer.plugin.js",
