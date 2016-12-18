@@ -412,7 +412,7 @@ class Renamer{
   }
 	getName(){return "Renamer"};
 	getDescription(){return "Rename your friends"};
-	getVersion(){return "1.4.2"};
+	getVersion(){return "1.4.3"};
 	getAuthor(){return "Megamit/Mitchell"};
 
   //legacy
