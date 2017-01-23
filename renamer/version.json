@@ -1,5 +1,11 @@
 [
   {
+    "version" : "1.5.0",
+    "src" : "http://megamit.github.io/repository/renamer/1.4.3/renamer.plugin.js",
+    "href" : "http://megamit.github.io/repository/renamer/1.4.3/renamer.plugin.js",
+    "notes" : "Fixed issue with compact mode , issues with setting nicks in some cases and memberlist being borked.(RIP GABE)"
+  },
+  {
     "version" : "1.4.3",
     "src" : "http://megamit.github.io/repository/renamer/1.4.3/renamer.plugin.js",
     "href" : "http://megamit.github.io/repository/renamer/1.4.3/renamer.plugin.js",
