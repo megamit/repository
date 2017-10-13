@@ -689,7 +689,7 @@ class Renamer {
 
   getDescription () {return "Rename your friends"};
 
-  getVersion () {return "1.5.3"};
+  getVersion () {return "1.5.4"};
 
   getAuthor () {return "Megamit/Mitchell"};
 
