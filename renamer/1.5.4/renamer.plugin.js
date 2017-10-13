@@ -340,7 +340,7 @@ class Renamer {
       });
       modal.remove();
     })
-      .appendTo("#app-mount>:first-child")
+      .appendTo("#app-mount>:nth-child(2)")
       .on("click", ".modal-reset", (e) => {
         this.resetUserProp(user.id, "tag");
         this.process(true);
@@ -689,7 +689,7 @@ class Renamer {
 
   getDescription () {return "Rename your friends"};
 
-  getVersion () {return "1.5.4"};
+  getVersion () {return "1.5.3"};
 
   getAuthor () {return "Megamit/Mitchell"};
 
