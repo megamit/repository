@@ -1,5 +1,11 @@
 [
   {
+    "version" : "1.5.4",
+    "src" : "http://megamit.github.io/repository/renamer/1.5.3/renamer.plugin.js",
+    "href" : "http://megamit.github.io/repository/renamer/1.5.3/renamer.plugin.js",
+    "notes" : "One more hotfix for React 16 and Discord changes"
+  },
+  {
     "version" : "1.5.3",
     "src" : "http://megamit.github.io/repository/renamer/1.5.3/renamer.plugin.js",
     "href" : "http://megamit.github.io/repository/renamer/1.5.3/renamer.plugin.js",
