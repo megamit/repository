@@ -422,12 +422,12 @@ class Renamer {
 
   getUpdates () {
     if (document.getElementById("notice-" + this.getName())) return
-    $.getJSON("https://megamit.github.io/repository/renamer/version.json", (data) => {
+    $.getJSON("https://raw.githubusercontent.com/megamit/repository/gh-pages/renamer/version.json", (data) => {
       let version = this.getVersion().split(".")
       let latest = data[ 0 ].version.split(".")
       if (latest[ 0 ] > version[ 0 ] || (latest[ 0 ] == version[ 0 ] && latest[ 1 ] > version[ 1 ]) || (latest[ 0 ] == version[ 0 ] && latest[ 1 ] == version[ 1 ] && latest[ 2 ] > version[ 2 ] )) {
         let notice;
-        notice = $(`<div class="notice" id="notice-${this.getName()}"><div class="notice-dismiss"></div> Version ${latest.join(".")} of Renamer is available: ${data[ 0 ].notes} <a class="btn btn-primary" href="${data[ 0 ].src}" target="_blank">Download</a></div>`).on("click", ".notice-dismiss", () => notice.remove()).appendTo(".app")
+        notice = $(`<div class="notice" id="notice-${this.getName()}"><div class="notice-dismiss"></div> Version ${latest.join(".")} of Renamer is available: ${data[ 0 ].notes} <a class="btn btn-primary" href="${data[ 0 ].src}" target="_blank">Download</a></div>`).on("click", ".notice-dismiss", () => notice.remove()).appendTo(".da-appMount")
       }
     })
   }
