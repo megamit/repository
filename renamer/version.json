@@ -1,6 +1,12 @@
 [
   {
     "version" : "1.5.4",
+    "src" : "http://megamit.github.io/repository/renamer/1.5.5/renamer.plugin.js",
+    "href" : "http://megamit.github.io/repository/renamer/1.5.5/renamer.plugin.js",
+    "notes" : "Fix for the latest version of Discord plus a minor fix to allow deletion of nicks/tags"
+  },
+  {
+    "version" : "1.5.4",
     "src" : "http://megamit.github.io/repository/renamer/1.5.4/renamer.plugin.js",
     "href" : "http://megamit.github.io/repository/renamer/1.5.4/renamer.plugin.js",
     "notes" : "One more hotfix for React 16 and Discord changes"
