@@ -3,7 +3,7 @@
     "version" : "1.5.5",
     "src" : "http://megamit.github.io/repository/renamer/1.5.5/renamer.plugin.js",
     "href" : "http://megamit.github.io/repository/renamer/1.5.5/renamer.plugin.js",
-    "notes" : "Fix for the latest version of Discord plus a minor fix to allow deletion of nicks/tags"
+    "notes" : "Fix for the latest version of Discord plus a minor fix to allow deletion of nicks/tags. Also fixed update checking."
   },
   {
     "version" : "1.5.4",
