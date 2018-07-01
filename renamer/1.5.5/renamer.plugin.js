@@ -422,7 +422,7 @@ class Renamer {
 
   getUpdates () {
     if (document.getElementById("notice-" + this.getName())) return
-    $.getJSON("https://raw.githubusercontent.com/megamit/repository/gh-pages/renamer/version.json", (data) => {
+    $.getJSON("https://raw.githubusercontent.com/Mongogamer/repository/gh-pages/renamer/version.json", (data) => {
       let version = this.getVersion().split(".")
       let latest = data[ 0 ].version.split(".")
       if (latest[ 0 ] > version[ 0 ] || (latest[ 0 ] == version[ 0 ] && latest[ 1 ] > version[ 1 ]) || (latest[ 0 ] == version[ 0 ] && latest[ 1 ] == version[ 1 ] && latest[ 2 ] > version[ 2 ] )) {
